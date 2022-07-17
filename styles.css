@@ -69,6 +69,8 @@ body {
 .name-wrapper {
     display: inline-block;
     vertical-align: middle;
+    position: relative;
+    z-index: 1;
 }
 
 .name {
