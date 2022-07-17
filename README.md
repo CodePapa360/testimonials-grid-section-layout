@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-c7mqOug6Pf)
+- [Live Site URL](https://codepapa360.github.io/testimonials-grid-section-layout)
 
 ## My process
 
